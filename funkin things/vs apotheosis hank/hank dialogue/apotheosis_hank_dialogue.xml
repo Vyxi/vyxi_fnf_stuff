@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="apotheosis_hank_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mad4 hank dialogue angry0000" x="0" y="0" width="321" height="360" frameX="0" frameY="-5" frameWidth="354" frameHeight="365"/>
+	<SubTexture name="mad4 hank dialogue angry0001" x="321" y="0" width="334" height="331" frameX="0" frameY="-34" frameWidth="354" frameHeight="365"/>
+	<SubTexture name="mad4 hank dialogue angry0002" x="655" y="0" width="321" height="364" frameX="0" frameY="-1" frameWidth="354" frameHeight="365"/>
+	<SubTexture name="mad4 hank dialogue angry0003" x="976" y="0" width="354" height="365"/>
+	<SubTexture name="mad4 hank dialogue normal0000" x="1330" y="0" width="321" height="364" frameX="0" frameY="-2" frameWidth="321" frameHeight="366"/>
+	<SubTexture name="mad4 hank dialogue normal0001" x="1651" y="0" width="321" height="346" frameX="0" frameY="-20" frameWidth="321" frameHeight="366"/>
+	<SubTexture name="mad4 hank dialogue normal0002" x="0" y="365" width="321" height="357" frameX="0" frameY="-9" frameWidth="321" frameHeight="366"/>
+	<SubTexture name="mad4 hank dialogue normal0003" x="321" y="365" width="321" height="366"/>
+</TextureAtlas>

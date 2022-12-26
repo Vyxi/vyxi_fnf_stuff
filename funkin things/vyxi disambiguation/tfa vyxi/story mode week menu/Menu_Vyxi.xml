@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Vyxi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Vyxi Idle0000" x="16" y="16" width="167" height="550"/>
+	<SubTexture name="M Vyxi Idle0001" x="199" y="16" width="167" height="549" frameX="0" frameY="-1" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0002" x="382" y="16" width="167" height="547" frameX="0" frameY="-3" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0003" x="565" y="16" width="167" height="542" frameX="0" frameY="-8" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0004" x="748" y="16" width="167" height="535" frameX="0" frameY="-15" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0005" x="931" y="16" width="167" height="524" frameX="0" frameY="-26" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0006" x="748" y="16" width="167" height="535" frameX="0" frameY="-15" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0007" x="565" y="16" width="167" height="542" frameX="0" frameY="-8" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0008" x="382" y="16" width="167" height="547" frameX="0" frameY="-3" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0009" x="199" y="16" width="167" height="549" frameX="0" frameY="-1" frameWidth="167" frameHeight="550"/>
+	<SubTexture name="M Vyxi Idle0010" x="16" y="16" width="167" height="550"/>
+	<SubTexture name="M Vyxi Idle0011" x="16" y="16" width="167" height="550"/>
+	<SubTexture name="M Vyxi Idle0012" x="16" y="16" width="167" height="550"/>
+	<SubTexture name="M Vyxi Idle0013" x="16" y="16" width="167" height="550"/>
+	<SubTexture name="M Vyxi Idle0014" x="16" y="16" width="167" height="550"/>
+</TextureAtlas>

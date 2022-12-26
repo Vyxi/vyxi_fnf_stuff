@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Hank.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Hank Idle0000" x="0" y="0" width="340" height="364" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0001" x="340" y="0" width="330" height="364" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0002" x="670" y="0" width="321" height="363" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0003" x="991" y="0" width="321" height="351" frameX="-18" frameY="-12" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0004" x="1312" y="0" width="334" height="342" frameX="-18" frameY="-22" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0005" x="1646" y="0" width="321" height="321" frameX="-18" frameY="-44" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0006" x="0" y="364" width="321" height="307" frameX="-18" frameY="-57" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0007" x="321" y="364" width="334" height="321" frameX="-18" frameY="-43" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0008" x="655" y="364" width="328" height="351" frameX="-18" frameY="-13" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0009" x="983" y="364" width="359" height="360" frameX="0" frameY="-4" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0010" x="0" y="0" width="340" height="364" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0011" x="0" y="0" width="340" height="364" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0012" x="0" y="0" width="340" height="364" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0013" x="0" y="0" width="340" height="364" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+	<SubTexture name="M Hank Idle0014" x="0" y="0" width="340" height="364" frameX="-18" frameY="0" frameWidth="359" frameHeight="365"/>
+</TextureAtlas>

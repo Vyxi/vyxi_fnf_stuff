@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vyxi_sad_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="vyxi sad down0000" x="16" y="16" width="333" height="719" frameX="0" frameY="0" frameWidth="333" frameHeight="720"/>
+	<SubTexture name="vyxi sad down0001" x="365" y="16" width="333" height="700" frameX="0" frameY="-20" frameWidth="333" frameHeight="720"/>
+	<SubTexture name="vyxi sad down0002" x="714" y="16" width="333" height="681" frameX="0" frameY="-39" frameWidth="333" frameHeight="720"/>
+	<SubTexture name="vyxi sad idle0000" x="1063" y="16" width="307" height="682" frameX="0" frameY="-65" frameWidth="353" frameHeight="747"/>
+	<SubTexture name="vyxi sad idle0001" x="1063" y="16" width="307" height="682" frameX="0" frameY="-65" frameWidth="353" frameHeight="747"/>
+	<SubTexture name="vyxi sad idle0002" x="1386" y="16" width="316" height="702" frameX="0" frameY="-45" frameWidth="353" frameHeight="747"/>
+	<SubTexture name="vyxi sad idle0003" x="1386" y="16" width="316" height="702" frameX="0" frameY="-45" frameWidth="353" frameHeight="747"/>
+	<SubTexture name="vyxi sad idle0004" x="1718" y="16" width="331" height="718" frameX="0" frameY="-29" frameWidth="353" frameHeight="747"/>
+	<SubTexture name="vyxi sad idle0005" x="2065" y="16" width="353" height="737" frameX="0" frameY="-10" frameWidth="353" frameHeight="747"/>
+	<SubTexture name="vyxi sad idle0006" x="2434" y="16" width="353" height="747"/>
+	<SubTexture name="vyxi sad left0000" x="2803" y="16" width="333" height="729" frameX="-15" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="vyxi sad left0001" x="3152" y="16" width="314" height="729" frameX="-13" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="vyxi sad left0002" x="3482" y="16" width="295" height="729" frameX="0" frameY="0" frameWidth="348" frameHeight="729"/>
+	<SubTexture name="vyxi sad right0000" x="16" y="779" width="339" height="711" frameX="0" frameY="0" frameWidth="403" frameHeight="711"/>
+	<SubTexture name="vyxi sad right0001" x="371" y="779" width="361" height="711" frameX="-2" frameY="0" frameWidth="403" frameHeight="711"/>
+	<SubTexture name="vyxi sad right0002" x="748" y="779" width="399" height="711" frameX="-4" frameY="0" frameWidth="403" frameHeight="711"/>
+	<SubTexture name="vyxi sad up0000" x="1163" y="779" width="324" height="705" frameX="0" frameY="-26" frameWidth="324" frameHeight="732"/>
+	<SubTexture name="vyxi sad up0001" x="1503" y="779" width="324" height="711" frameX="0" frameY="-21" frameWidth="324" frameHeight="732"/>
+	<SubTexture name="vyxi sad up0002" x="1843" y="779" width="324" height="732"/>
+</TextureAtlas>

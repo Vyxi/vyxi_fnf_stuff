@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="happy_hank_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy hank down pose0000" x="0" y="0" width="335" height="342" frameX="-30" frameY="0" frameWidth="392" frameHeight="342"/>
+	<SubTexture name="happy hank down pose0001" x="335" y="0" width="355" height="331" frameX="-20" frameY="-10" frameWidth="392" frameHeight="342"/>
+	<SubTexture name="happy hank down pose0002" x="690" y="0" width="369" height="322" frameX="-12" frameY="-18" frameWidth="392" frameHeight="342"/>
+	<SubTexture name="happy hank down pose0003" x="1059" y="0" width="392" height="313" frameX="0" frameY="-28" frameWidth="392" frameHeight="342"/>
+	<SubTexture name="happy hank idle pose0000" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0001" x="1932" y="0" width="504" height="323" frameX="-91" frameY="-54" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0002" x="2436" y="0" width="487" height="338" frameX="-79" frameY="-38" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0003" x="2923" y="0" width="471" height="342" frameX="-68" frameY="-36" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0004" x="3394" y="0" width="472" height="349" frameX="-36" frameY="-27" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0005" x="0" y="373" width="476" height="362" frameX="-13" frameY="-15" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0006" x="476" y="373" width="481" height="378" frameX="0" frameY="0" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0007" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0008" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0009" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0010" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0011" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0012" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0013" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank idle pose0014" x="1451" y="0" width="481" height="373" frameX="0" frameY="-5" frameWidth="595" frameHeight="378"/>
+	<SubTexture name="happy hank left pose0000" x="957" y="373" width="358" height="364" frameX="0" frameY="0" frameWidth="395" frameHeight="366"/>
+	<SubTexture name="happy hank left pose0001" x="1315" y="373" width="374" height="352" frameX="0" frameY="-13" frameWidth="395" frameHeight="366"/>
+	<SubTexture name="happy hank left pose0002" x="1689" y="373" width="372" height="346" frameX="0" frameY="-20" frameWidth="395" frameHeight="366"/>
+	<SubTexture name="happy hank left pose0003" x="2061" y="373" width="395" height="329" frameX="0" frameY="-36" frameWidth="395" frameHeight="366"/>
+	<SubTexture name="happy hank right pose0000" x="2456" y="373" width="456" height="319" frameX="-15" frameY="-35" frameWidth="471" frameHeight="356"/>
+	<SubTexture name="happy hank right pose0001" x="2912" y="373" width="443" height="323" frameX="-15" frameY="-31" frameWidth="471" frameHeight="356"/>
+	<SubTexture name="happy hank right pose0002" x="3355" y="373" width="420" height="354" frameX="-13" frameY="-1" frameWidth="471" frameHeight="356"/>
+	<SubTexture name="happy hank right pose0003" x="0" y="751" width="418" height="356" frameX="0" frameY="0" frameWidth="471" frameHeight="356"/>
+	<SubTexture name="happy hank up pose0000" x="418" y="751" width="379" height="347" frameX="-9" frameY="0" frameWidth="388" frameHeight="349"/>
+	<SubTexture name="happy hank up pose0001" x="797" y="751" width="382" height="347" frameX="-6" frameY="0" frameWidth="388" frameHeight="349"/>
+	<SubTexture name="happy hank up pose0002" x="1179" y="751" width="388" height="347" frameX="0" frameY="0" frameWidth="388" frameHeight="349"/>
+	<SubTexture name="happy hank up pose0003" x="1567" y="751" width="379" height="349" frameX="-9" frameY="0" frameWidth="388" frameHeight="349"/>
+</TextureAtlas>
